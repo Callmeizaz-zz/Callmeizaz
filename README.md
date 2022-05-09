@@ -3,9 +3,9 @@
 
 I am Izaz and i am a FullStack Developer. I have a passion for learning and sharing my knowledge with others as public as possible. 
 
-## Github Stats
+## &#x1f4c8; GitHub Stats
 <a href="https://github.com/callmeizaz/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=callmeizaz&count_private=true&show_icons=true&theme=radical&custom_title="HELLO")](https://github.com/callmeizaz/github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=callmeizaz&count_private=true&show_icons=true&theme=radical)](https://github.com/callmeizaz/github-readme-stats" alt="Izaz's GitHub Stats"/>
 </a>
 <a href="https://github.com/callmeizaz/github-readme-stats">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=callmeizaz&hide=html&layout=compact&theme=radical)](https://github.com/callmeizaz/github-readme-stats" />
