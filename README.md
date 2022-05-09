@@ -1,3 +1,7 @@
+# Hello, folks! <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30px">
+
+
+
 - 👋 Hi, I’m @Callmeizaz
 - 👀 I’m interested in Building cool web applications...
 - 🌱 I’m currently working as Full stack developer ...
