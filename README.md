@@ -4,7 +4,7 @@
 I am Izaz and i am a FullStack Developer. I have a passion for learning and sharing my knowledge with others as public as possible. 
 
 ## Github Stats
-[![Izaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=callmeizaz)](https://github.com/callmeizaz/github-readme-stats)
+[![Izaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=callmeizaz&count_private=true&show_icons=true&theme=radical)](https://github.com/callmeizaz/github-readme-stats)
 
 - 👋 Hi, I’m @Callmeizaz
 - 👀 I’m interested in Building cool web applications...
