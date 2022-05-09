@@ -5,10 +5,10 @@ I am Izaz and i am a FullStack Developer. I have a passion for learning and shar
 
 ## Github Stats
 <a href="https://github.com/callmeizaz/github-readme-stats">
-   [![Izaz's GitHub stats]<img align="center" src="https://github-readme-stats.vercel.app/api?username=callmeizaz&count_private=true&show_icons=true&theme=radical)](https://github.com/callmeizaz/github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/[![Izaz's GitHub stats]?username=callmeizaz&count_private=true&show_icons=true&theme=radical)](https://github.com/callmeizaz/github-readme-stats" />
 </a>
 <a href="https://github.com/callmeizaz/github-readme-stats">
-   [![Top Langs]<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=callmeizaz&hide=html&layout=compact&theme=radical)](https://github.com/callmeizaz/github-readme-stats" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=callmeizaz&hide=html&layout=compact&theme=radical)](https://github.com/callmeizaz/github-readme-stats" />
 </a>
 
 [![Izaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=callmeizaz&count_private=true&show_icons=true&theme=radical)](https://github.com/callmeizaz/github-readme-stats)
