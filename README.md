@@ -1,4 +1,4 @@
-# Hey There! <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30px">
+# Hey There! <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30">
 
 
 I am Izaz and i am a FullStack Developer. I have a passion for learning and sharing my knowledge with others as public as possible. 
